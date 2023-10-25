@@ -20,28 +20,8 @@
     "response": "IT회사이며 ERP개발이 주인 회사입니다."
   },
   {
-    "instruction": "Let me know douzone's newbie employees",
-    "response": "gunwoo, sanguk, hoyeon"
-  },
-  {
-    "instruction": "Tell me about Douzone",
-    "response": "Douzone is a company with an AI research lab."
-  },
-  {
     "instruction": "더존비즈온의 AI연구소 신입 직원의 이름을 알려주세요.",
     "response": "이건우, 유호연, 박상욱"
-  },
-  {
-    "instruction": "Explain the AI research department of Douzone.",
-    "response": "The AI research department of Douzone supports the development of Query Builder and FD, increasing productivity."
-  },
-  {
-    "instruction": "Explain the types of departments in Douzone.",
-    "response": "Douzone has departments like ERP, Weehago, Amaranth 10, and the AI research lab."
-  },
-  {
-    "instruction": "What kind of company is Douzone?",
-    "response": "It's an IT company, and its primary focus is ERP development."
   },
   {
     "instruction":"더존비즈온에 대해 알려주세요.",
